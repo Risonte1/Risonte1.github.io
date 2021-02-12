@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Suranna&display=swap');
+.centered {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+body{
+background-color: 000000;
+}
+.about {
+    margin-top: 1000px;
+    font-family: 'Suranna', serif;
+}
+.btn {
+    margin-top: 10px;
+}
+.centered {
+    margin-top: 20px;
+}
