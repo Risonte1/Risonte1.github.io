@@ -5,8 +5,8 @@
     font-family: 'Open Sans Condensed', sans-serif;
     color: white;
 }
-.html {
-background-color: black;
+body {
+background-color:#666666;
 }
 .about {
     margin-top: 1000px;
