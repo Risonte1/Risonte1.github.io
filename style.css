@@ -5,18 +5,19 @@
     font-family: 'Open Sans Condensed', sans-serif;
     color: white;
 }
+body {
+    background-color: black;
+}
 .about {
     margin-top: 1000px;
     font-family: 'Suranna', serif;
-    background-color: black;
 }
 .btn {
     margin-top: 10px;
 }
 .centered {
     margin-top: 20px;
-    background-color: black;
 }
-body {
-    background-color: black;
+#section2 {
+    height: 300px;
 }
