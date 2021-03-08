@@ -18,6 +18,9 @@ body {
 .centered {
     margin-top: 20px;
 }
+.dropdown-menu {
+    center;
+}
 #section2 {
     height: 300px;
 }
