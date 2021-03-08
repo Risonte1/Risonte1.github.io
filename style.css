@@ -19,7 +19,11 @@ body {
     margin-top: 20px;
 }
 .dropdown-menu {
-    center;
+    left: 50% !important;
+  right: auto !important;
+  text-align: center !important;
+  transform: translate(-50%, 0) !important;
+}
 }
 #section2 {
     height: 300px;
