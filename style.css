@@ -6,7 +6,7 @@
     color: white;
 }
 body {
-    background-color: black;
+background: url(https://iplogger.org/3HnT94.jpg);
 }
 .about {
     margin-top: 1000px;
@@ -18,13 +18,11 @@ body {
 .centered {
     margin-top: 20px;
 }
+
 .dropdown-menu {
-    left: 50% !important;
-  right: auto !important;
-  text-align: center !important;
-  transform: translate(-50%, 0) !important;
+    center;
 }
-}
+
 #section2 {
     height: 300px;
 }
